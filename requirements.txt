@@ -1,0 +1,18 @@
+torch
+torchvision
+torchaudio
+transformers
+datasets
+sentencepiece
+numpy
+pandas
+tqdm
+fastapi
+uvicorn
+python-box
+pyyaml
+ensure
+joblib
+pytest
+
+-e .
